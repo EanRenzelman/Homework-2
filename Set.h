@@ -8,6 +8,10 @@ private:
     int* data;
     int size;
 
+
+
+
+    
     bool exists(int value) const;
 
 public:
